@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "INVISART",
+    "description": "",
+    "home_page_url": "https://invisart.github.io/invisart.ru",
+    "feed_url": "https://invisart.github.io/invisart.ru/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "INVISART Россия"
+    },
+    "items": [
+    ]
+}

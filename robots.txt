@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://invisart.github.io/invisart.ru/sitemap.xml
