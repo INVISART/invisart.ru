@@ -3,21 +3,21 @@
     <title>INVISART</title>
     <link href="https://invisart.ru/feed.xml" rel="self" />
     <link href="https://invisart.ru" />
-    <updated>2021-02-11T01:09:46+03:00</updated>
+    <updated>2021-02-19T21:18:14+03:00</updated>
     <author>
         <name>INVISART Россия</name>
     </author>
     <id>https://invisart.ru</id>
 
     <entry>
-        <title>Second post</title>
+        <title>Second post - test</title>
         <author>
             <name>INVISART Россия</name>
         </author>
         <link href="https://invisart.ru/second-post.html"/>
         <id>https://invisart.ru/second-post.html</id>
 
-        <updated>2021-02-11T01:09:46+03:00</updated>
+        <updated>2021-02-19T21:18:14+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://invisart.ru/media/posts/2/Screen-Capture_select-area_20210211010839.jpg" alt="" />
@@ -29,7 +29,10 @@
                     <img src="https://invisart.ru/media/posts/2/Screen-Capture_select-area_20210211010839.jpg" alt="" />
                 <figure class="post__image"><img loading="lazy"  src="https://invisart.ru/media/posts/2//Screen-Capture_select-area_20210210222606.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-xs.jpg 300w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-sm.jpg 480w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-md.jpg 768w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-lg.jpg 1024w"  alt="" width="1357" height="709"></figure>
 <h2>How It Works</h2>
-<p>Before starting using Publii it is important to understand that while it is technically a CMS (Content Management System), it does not work in the same way as other CMS' you may have seen such as WordPress or Joomla!. Usually, the defining characteristic of a CMS is that it is software that runs on a server; first, you must buy hosting that gives you access to a server, then upload the CMS files to the server and install it directly there.</p>
+<p>Before starting using Publii it is important to understand that while it is technically a CMS (Content Management System), it does not work in the same way as other CMS' you may have seen such as WordPress or Joomla!.</p>
+<blockquote>
+<p>Usually, the defining characteristic of a CMS is that it is software that runs on a server; first, you must buy hosting that gives you access to a server, then upload the CMS files to the server and install it directly there.</p>
+</blockquote>
 <p>What this means is that everything related to your website is run on the server; if you want to create a new post, edit a category, or add images to your site, you must first login to the CMS on the server and make your changes there. You must be constantly connected to the internet for this so that any changes can be sent to the software as you make them. Though it's possible to create the website offline and then transfer it to your server, it's not an easy process and prone to issues.</p>
             ]]>
         </content>

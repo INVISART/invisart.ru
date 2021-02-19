@@ -12,9 +12,9 @@
         {
             "id": "https://invisart.ru/second-post.html",
             "url": "https://invisart.ru/second-post.html",
-            "title": "Second post",
+            "title": "Second post - test",
             "summary": "How It WorksBefore starting using Publii it is important to understand that&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://invisart.ru/media/posts/2//Screen-Capture_select-area_20210210222606.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-xs.jpg 300w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-sm.jpg 480w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-md.jpg 768w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-lg.jpg 1024w\"  alt=\"\" width=\"1357\" height=\"709\"></figure>\n<h2>How It Works</h2>\n<p>Before starting using Publii it is important to understand that while it is technically a CMS (Content Management System), it does not work in the same way as other CMS' you may have seen such as WordPress or Joomla!. Usually, the defining characteristic of a CMS is that it is software that runs on a server; first, you must buy hosting that gives you access to a server, then upload the CMS files to the server and install it directly there.</p>\n<p>What this means is that everything related to your website is run on the server; if you want to create a new post, edit a category, or add images to your site, you must first login to the CMS on the server and make your changes there. You must be constantly connected to the internet for this so that any changes can be sent to the software as you make them. Though it's possible to create the website offline and then transfer it to your server, it's not an easy process and prone to issues.</p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://invisart.ru/media/posts/2//Screen-Capture_select-area_20210210222606.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-xs.jpg 300w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-sm.jpg 480w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-md.jpg 768w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-lg.jpg 1024w\"  alt=\"\" width=\"1357\" height=\"709\"></figure>\n<h2>How It Works</h2>\n<p>Before starting using Publii it is important to understand that while it is technically a CMS (Content Management System), it does not work in the same way as other CMS' you may have seen such as WordPress or Joomla!.</p>\n<blockquote>\n<p>Usually, the defining characteristic of a CMS is that it is software that runs on a server; first, you must buy hosting that gives you access to a server, then upload the CMS files to the server and install it directly there.</p>\n</blockquote>\n<p>What this means is that everything related to your website is run on the server; if you want to create a new post, edit a category, or add images to your site, you must first login to the CMS on the server and make your changes there. You must be constantly connected to the internet for this so that any changes can be sent to the software as you make them. Though it's possible to create the website offline and then transfer it to your server, it's not an easy process and prone to issues.</p>",
             "image": "https://invisart.ru/media/posts/2/Screen-Capture_select-area_20210211010839.jpg",
             "author": {
                 "name": "INVISART Россия"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2021-02-11T01:09:24+03:00",
-            "date_modified": "2021-02-11T01:09:46+03:00"
+            "date_modified": "2021-02-19T21:18:14+03:00"
         },
         {
             "id": "https://invisart.ru/first-post.html",
