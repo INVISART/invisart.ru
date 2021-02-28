@@ -6,38 +6,23 @@
     "feed_url": "https://invisart.ru/feed.json",
     "user_comment": "",
     "author": {
-        "name": "INVISART Россия"
+        "name": "Ksuvrr"
     },
     "items": [
         {
-            "id": "https://invisart.ru/second-post.html",
-            "url": "https://invisart.ru/second-post.html",
-            "title": "Second post - test",
-            "summary": "How It WorksBefore starting using Publii it is important to understand that&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://invisart.ru/media/posts/2//Screen-Capture_select-area_20210210222606.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-xs.jpg 300w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-sm.jpg 480w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-md.jpg 768w ,https://invisart.ru/media/posts/2//responsive/Screen-Capture_select-area_20210210222606-lg.jpg 1024w\"  alt=\"\" width=\"1357\" height=\"709\"></figure>\n<h2>How It Works</h2>\n<p>Before starting using Publii it is important to understand that while it is technically a CMS (Content Management System), it does not work in the same way as other CMS' you may have seen such as WordPress or Joomla!.</p>\n<blockquote>\n<p>Usually, the defining characteristic of a CMS is that it is software that runs on a server; first, you must buy hosting that gives you access to a server, then upload the CMS files to the server and install it directly there.</p>\n</blockquote>\n<p>What this means is that everything related to your website is run on the server; if you want to create a new post, edit a category, or add images to your site, you must first login to the CMS on the server and make your changes there. You must be constantly connected to the internet for this so that any changes can be sent to the software as you make them. Though it's possible to create the website offline and then transfer it to your server, it's not an easy process and prone to issues.</p>",
-            "image": "https://invisart.ru/media/posts/2/Screen-Capture_select-area_20210211010839.jpg",
+            "id": "https://invisart.ru/mosaic.html",
+            "url": "https://invisart.ru/mosaic.html",
+            "title": "MOSAIC",
+            "summary": "Время часто используется как элемент дизайна в публичных местах. В аэропорту это&hellip;",
+            "content_html": "<p>Время часто используется как элемент дизайна в публичных местах. В аэропорту это большие часы, расположенные в главном вестибюле. Привычная многим людям деталь, которая, однако, расходится с пониманием современного пространства. Авторы проекта MOSAIC, архитекторы и дизайнеры из компании Elecroland, стремились найти универсальное, эстетичное и модернизированное решение, в котором время выступит как главная составляющая.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://invisart.ru/media/posts/1/MOSAIC_3.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://invisart.ru/media/posts/1/responsive/MOSAIC_3-xs.jpg 300w ,https://invisart.ru/media/posts/1/responsive/MOSAIC_3-sm.jpg 480w ,https://invisart.ru/media/posts/1/responsive/MOSAIC_3-md.jpg 768w ,https://invisart.ru/media/posts/1/responsive/MOSAIC_3-lg.jpg 1024w\"  alt=\"\" width=\"1500\" height=\"1001\"></figure><br><br>MOSAIC - это творческая линейная интерпретация часов, в которых временной цикл заменяется цветовым спектром. Световая инсталляция длиной в 240 футов, расположенная в главном вестибюле Международного аэропорта Форт-Лодердейл/Холливуд. Сегменты инсталляции медленно переходят между оттенками разных цветов. На первый и непродолжительный взгляд цвета кажутся статичными, но это не так: каждую минуту в сегменте происходит небольшое изменение цвета, каждые десять минут - более значительное изменение и т. д. <br><br>График на картинке выше показывает, как цвета спектра распределены по всей длине инсталляции, а также соотношение временных промежутков с цветами-доминантами. Каждые 10 минут новый цвет становится \"главным\", и большая часть сегментов загорается его оттенками. Например, через 15 минут после каждого полного часа преобладающими в инсталляции будут оттенки оранжевого.<br><br>Это произведение одновременно демонстрируется двум группам зрителей. Первая группа - это люди, находящиеся в вестибюле аэропорта, ниже самой инсталляции. Они видят длинный дисплей на стене, состоящий из переливающихся разными цветами сегментов. Вторая группа - пассажиры, переходящие из самолетов в здание аэропорта. Для них это полноценный, погружающий в атмосферу инсталляции опыт. Каждый из них проходит через длинный коридор, заполненный разноцветными лучами света.<br><br>MOSAIC - это отличный пример творческого произведения, интегрированного в повседневную жизнь людей. Тот случай, когда современное искусство находит свое место не в галерее или выставочном пространстве, а обретает практический смысл рядом с человеком.</p>",
+            "image": "https://invisart.ru/media/posts/1/MOSAIC_2.jpg",
             "author": {
-                "name": "INVISART Россия"
+                "name": "Ksuvrr"
             },
             "tags": [
             ],
-            "date_published": "2021-02-11T01:09:24+03:00",
-            "date_modified": "2021-02-19T21:18:54+03:00"
-        },
-        {
-            "id": "https://invisart.ru/first-post.html",
-            "url": "https://invisart.ru/first-post.html",
-            "title": "First post updated",
-            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://invisart.ru/media/posts/1/Screen-Capture_select-area_20210204090143.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://invisart.ru/media/posts/1/responsive/Screen-Capture_select-area_20210204090143-xs.jpg 300w ,https://invisart.ru/media/posts/1/responsive/Screen-Capture_select-area_20210204090143-sm.jpg 480w ,https://invisart.ru/media/posts/1/responsive/Screen-Capture_select-area_20210204090143-md.jpg 768w ,https://invisart.ru/media/posts/1/responsive/Screen-Capture_select-area_20210204090143-lg.jpg 1024w\"  alt=\"\" width=\"1050\" height=\"589\"></figure>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Venenatis cras sed felis eget velit aliquet sagittis id consectetur. Et tortor consequat id porta nibh venenatis cras sed. Malesuada fames ac turpis egestas integer eget. Sit amet consectetur adipiscing elit. Risus sed vulputate odio ut enim blandit volutpat maecenas. Eu mi bibendum neque egestas congue quisque egestas diam in. Tellus cras adipiscing enim eu turpis. Varius duis at consectetur lorem donec massa sapien. At auctor urna nunc id cursus metus aliquam. Habitasse platea dictumst vestibulum rhoncus est. Pharetra pharetra massa massa ultricies mi quis. Nunc mattis enim ut tellus elementum sagittis vitae. A lacus vestibulum sed arcu non. Faucibus et molestie ac feugiat sed lectus vestibulum. Tristique et egestas quis ipsum suspendisse. Dolor sit amet consectetur adipiscing. Donec massa sapien faucibus et molestie ac feugiat sed lectus.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://invisart.ru/media/posts/1/Screen-Capture_select-area_20210204085935.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://invisart.ru/media/posts/1/responsive/Screen-Capture_select-area_20210204085935-xs.jpg 300w ,https://invisart.ru/media/posts/1/responsive/Screen-Capture_select-area_20210204085935-sm.jpg 480w ,https://invisart.ru/media/posts/1/responsive/Screen-Capture_select-area_20210204085935-md.jpg 768w ,https://invisart.ru/media/posts/1/responsive/Screen-Capture_select-area_20210204085935-lg.jpg 1024w\"  alt=\"\" width=\"1052\" height=\"590\"></figure>\n<p>Blandit turpis cursus in hac. Sem viverra aliquet eget sit amet tellus cras adipiscing. Vitae turpis massa sed elementum tempus egestas. Adipiscing commodo elit at imperdiet dui accumsan sit amet nulla. Pharetra diam sit amet nisl suscipit adipiscing bibendum est. Aliquet lectus proin nibh nisl. Massa vitae tortor condimentum lacinia quis vel eros donec ac. Aenean sed adipiscing diam donec. Eu volutpat odio facilisis mauris sit amet massa. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Turpis massa sed elementum tempus egestas. Tellus in metus vulputate eu scelerisque felis. Ullamcorper malesuada proin libero nunc consequat interdum varius sit. In aliquam sem fringilla ut morbi tincidunt. Risus commodo viverra maecenas accumsan lacus vel. Turpis massa sed elementum tempus egestas sed sed risus pretium. Enim ut sem viverra aliquet eget.</p>",
-            "image": "https://invisart.ru/media/posts/1/Screen-Capture_select-area_20210204085920.jpg",
-            "author": {
-                "name": "INVISART Россия"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-11T00:14:56+03:00",
-            "date_modified": "2021-02-11T00:50:08+03:00"
+            "date_published": "2021-02-28T10:11:13+03:00",
+            "date_modified": "2021-02-28T10:49:15+03:00"
         }
     ]
 }
